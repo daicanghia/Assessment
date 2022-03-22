@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7Ne/Sb0i+hJMVFqxRn9MnkR7PJ247klF15WGHJpgtm+LHwaNvhIpU69C/xlfXh513FamMGGRPQ1mKmzk3Y49Q==",
+  "dgSpecHash": "/+01/YZFa4FPiOP/uZv/jtr7QqjjWGL1taADsV92XjGNpSvAtDGrulbtrdtjrYvif/2OM8iYJaOxpU0Z8mTVXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+  "projectFilePath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

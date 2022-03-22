@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {}
+    "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
+    "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+        "projectUniqueName": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
         "projectName": "MsDemo.Shared",
-        "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+        "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\obj\\",
+        "outputPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

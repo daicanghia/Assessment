@@ -22,3 +22,15 @@ C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\shared\MsDemo.Shar
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\shared\MsDemo.Shared\obj\Debug\net6.0\refint\MsDemo.Shared.dll
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.pdb
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\shared\MsDemo.Shared\obj\Debug\net6.0\ref\MsDemo.Shared.dll
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.deps.json
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.dll
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.pdb
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.csproj.AssemblyReference.cache
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.AssemblyInfoInputs.cache
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.AssemblyInfo.cs
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.csproj.CoreCompileInputs.cache
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.dll
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\refint\MsDemo.Shared.dll
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.pdb
+D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\ref\MsDemo.Shared.dll

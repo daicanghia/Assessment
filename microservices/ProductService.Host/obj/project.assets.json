@@ -12040,11 +12040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+      "projectUniqueName": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
       "projectName": "ProductService.Host",
-      "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+      "projectPath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\microservices\\ProductService.Host\\obj\\",
+      "outputPath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12061,17 +12061,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
+            "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
             },
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
+            "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
             },
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
+            "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
             },
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
+            "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
             }
           }
         }

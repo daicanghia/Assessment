@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WMKy9EMOOoexYhYCSGC3P9l2z8ehN2ppFfpYFeIW7p49d+l7067IPgBgNPFhwaxi776FN9vmTyWbwlaGY+4s0A==",
+  "dgSpecHash": "RU/ZZ3iYXzRcxnsUGqQR/291yP10Dxzj1Gexd2e3TTTVGl4+XoNABlzEymYbS6H66EmD0SGXSwiC1S3LavoyrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+  "projectFilePath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",

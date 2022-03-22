@@ -10496,11 +10496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+      "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
       "projectName": "ProductManagement.Application.Tests",
-      "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+      "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.Application.Tests\\obj\\",
+      "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10517,11 +10517,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
+            "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
             },
-            "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj": {
-              "projectPath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj"
+            "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj": {
+              "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj"
             }
           }
         }

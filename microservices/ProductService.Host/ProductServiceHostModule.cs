@@ -91,6 +91,7 @@ namespace ProductService.Host
                 options.UseSqlServer();
             });
 
+            //TODO: Because this is test assesment => dont need using redis
             //context.Services.AddStackExchangeRedisCache(options =>
             //{
             //    options.Configuration = configuration["Redis:Configuration"];
@@ -107,6 +108,7 @@ namespace ProductService.Host
                 options.TenantKey = "f1c453d2-0727-33a9-1e72-3a01b12bbd29";
             });
 
+            //TODO: Because this is test assesment => dont need using redis
             //var redis = ConnectionMultiplexer.Connect(configuration["Redis:Configuration"]);
             //context.Services.AddDataProtection()
             //    .PersistKeysToStackExchangeRedis(redis, "MsDemo-DataProtection-Keys");

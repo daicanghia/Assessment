@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fP5kgMseMSNu3EvTH8N8i6AGm+UI3O92AAYtZKoiz2F9sy75AGAxFM/IGsDsxIm+2HP//NQNKL5iQdJklZOmoQ==",
+  "dgSpecHash": "f7dxofVdnyU5nyW6BbJCDXhvOnzqu93xolBNEpVQBLmcVPIQ01YVDHV4d/RkBANtwNn/30qJ54rUbGwz8HiV8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+  "projectFilePath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

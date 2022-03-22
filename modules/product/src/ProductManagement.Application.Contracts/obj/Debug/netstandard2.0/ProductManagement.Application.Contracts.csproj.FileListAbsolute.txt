@@ -24,3 +24,16 @@ C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\modules\product\sr
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.csproj.CopyComplete
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.dll
 C:\Users\admin\Downloads\abp-samples-master_\MicroserviceDemo\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.pdb
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\bin\Debug\netstandard2.0\ProductManagement.Application.Contracts.deps.json
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\bin\Debug\netstandard2.0\ProductManagement.Application.Contracts.dll
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\bin\Debug\netstandard2.0\ProductManagement.Application.Contracts.pdb
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\bin\Debug\netstandard2.0\ProductManagement.Domain.Shared.dll
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\bin\Debug\netstandard2.0\ProductManagement.Domain.Shared.pdb
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.AssemblyInfo.cs
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.csproj.CopyComplete
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.dll
+D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Application.Contracts\obj\Debug\netstandard2.0\ProductManagement.Application.Contracts.pdb

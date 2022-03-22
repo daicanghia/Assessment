@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8b+8FqRpaO/xU0+ho75maDMXCLP3pxgu97KTsmh7a6lP+/zTngn4VFCiemdn74iWQvORJzDEQX2ht3Ky05uEgA==",
+  "dgSpecHash": "WnEO70RrVN3vD7AzqgVytEadn3zHnxjEf+lD/6gHxdef/25KhboXd8fw2Ou3s/i9k4FjXoUo748mTN4NG9zMfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\abp-samples-master_\\MicroserviceDemo\\modules\\product\\test\\ProductManagement.EntityFrameworkCore.Tests\\ProductManagement.EntityFrameworkCore.Tests.csproj",
+  "projectFilePath": "D:\\Data\\Simson_Assesment\\modules\\product\\test\\ProductManagement.EntityFrameworkCore.Tests\\ProductManagement.EntityFrameworkCore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
