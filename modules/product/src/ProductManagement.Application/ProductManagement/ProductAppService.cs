@@ -98,7 +98,7 @@ namespace ProductManagement
             return ObjectMapper.Map<Product, ProductDto>(product);
         }
 
-        [Authorize(ProductManagementPermissions.Products.Update)]
+        //[Authorize(ProductManagementPermissions.Products.Update)]
         public async Task<ProductDto> UpdateAsync(Guid id, UpdateProductDto input)
         {
             var product = await _productRepository.GetAsync(id);
@@ -108,10 +108,12 @@ namespace ProductManagement
             product.SetStockCount(input.StockCount);
             product.SetImageName(input.ImageName);
 
-            return ObjectMapper.Map<Product, ProductDto>(product);
+            var updateProduct =  await _productRepository.UpdateAsync(product);
+
+            return ObjectMapper.Map<Product, ProductDto>(updateProduct);
         }
 
-        [Authorize(ProductManagementPermissions.Products.Delete)]
+        //[Authorize(ProductManagementPermissions.Products.Delete)]
         public async Task DeleteAsync(Guid id)
         {
             await _productRepository.DeleteAsync(id);

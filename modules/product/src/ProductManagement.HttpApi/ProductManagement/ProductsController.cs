@@ -45,11 +45,16 @@ namespace ProductManagement
             return _productAppService.CreateAsync(input);
         }
 
-        [HttpPut]
+        [HttpPost]
         [Route("{id}")]
         public Task<ProductDto> UpdateAsync(Guid id, UpdateProductDto input)
         {
-            return _productAppService.UpdateAsync(id, input);
+            try
+            {
+                return _productAppService.UpdateAsync(id, input);
+            }
+            catch (Exception ex) { throw; }
+
         }
 
         [HttpDelete]

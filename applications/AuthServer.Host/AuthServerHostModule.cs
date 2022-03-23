@@ -71,10 +71,11 @@ namespace AuthServer.Host
                 options.Languages.Add(new LanguageInfo("en", "en", "English"));
             });
 
-            context.Services.AddStackExchangeRedisCache(options =>
-            {
-                options.Configuration = configuration["Redis:Configuration"];
-            });
+            //TODO: Because this is test assesment => dont need using redis
+            //context.Services.AddStackExchangeRedisCache(options =>
+            //{
+            //    options.Configuration = configuration["Redis:Configuration"];
+            //});
 
             Configure<AbpAuditingOptions>(options =>
             {
@@ -82,10 +83,11 @@ namespace AuthServer.Host
                 options.ApplicationName = "AuthServer";
             });
 
-            //TODO: ConnectionMultiplexer.Connect call has problem since redis may not be ready when this service has started!
-            var redis = ConnectionMultiplexer.Connect(configuration["Redis:Configuration"]);
-            context.Services.AddDataProtection()
-                .PersistKeysToStackExchangeRedis(redis, "MsDemo-DataProtection-Keys");
+            //TODO: Because this is test assesment => dont need using redis
+            ////TODO: ConnectionMultiplexer.Connect call has problem since redis may not be ready when this service has started!
+            //var redis = ConnectionMultiplexer.Connect(configuration["Redis:Configuration"]);
+            //context.Services.AddDataProtection()
+            //    .PersistKeysToStackExchangeRedis(redis, "MsDemo-DataProtection-Keys");
         }
 
         public override void OnApplicationInitialization(ApplicationInitializationContext context)

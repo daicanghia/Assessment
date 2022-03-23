@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MsDemo.Shared", "shared\MsD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.HttpApi", "modules\product\src\ProductManagement.HttpApi\ProductManagement.HttpApi.csproj", "{C260BB6E-A7C8-40DB-9DBC-70AC92B79335}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublicWebSiteGateway.Host", "gateways\PublicWebSiteGateway.Host\PublicWebSiteGateway.Host.csproj", "{4A864B81-0C20-4BFF-B178-F9E45D43B85D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{C260BB6E-A7C8-40DB-9DBC-70AC92B79335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C260BB6E-A7C8-40DB-9DBC-70AC92B79335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C260BB6E-A7C8-40DB-9DBC-70AC92B79335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A864B81-0C20-4BFF-B178-F9E45D43B85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A864B81-0C20-4BFF-B178-F9E45D43B85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A864B81-0C20-4BFF-B178-F9E45D43B85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A864B81-0C20-4BFF-B178-F9E45D43B85D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,6 +130,7 @@ Global
 		{F9F6CCC2-5985-4853-BBA1-A85D60373DBC} = {8F6834D7-E6FA-4A04-83BB-955F68EA0A0A}
 		{D4549E30-18CC-4157-B994-C0097216C2C8} = {2B3B460C-0293-44A1-BEF4-91A778CE73CE}
 		{C260BB6E-A7C8-40DB-9DBC-70AC92B79335} = {F84AC200-1E5A-4FC3-9407-FB2FF527EDA8}
+		{4A864B81-0C20-4BFF-B178-F9E45D43B85D} = {617037ED-34E3-49A2-8958-BE2013E2D151}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {37474F0D-2E52-4D2F-B39B-7FE3FF31B4EC}

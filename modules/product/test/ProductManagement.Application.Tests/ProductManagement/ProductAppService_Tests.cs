@@ -32,7 +32,7 @@ namespace ProductManagement
         [Fact]
         public async Task GetAsync()
         {
-            var product = (await _productRepository.GetListAsync()).FirstOrDefault();
+            var product = (await _productRepository.GetListAsync()).OrderBy(item => item.CreationTime).FirstOrDefault();
 
             var result = await _productAppService.GetAsync(product.Id);
 
@@ -50,6 +50,8 @@ namespace ProductManagement
             {
                 Code = "Code",
                 Name = "Name",
+                Branch = "Branch",
+                Colour = "Colour",
                 Price = 15,
                 StockCount = 14
             });
@@ -64,13 +66,16 @@ namespace ProductManagement
 
             var result = await _productAppService.UpdateAsync(product.Id, new UpdateProductDto()
             {
-                Name = nameof(Product.Name),
-                Price = 15,
-                StockCount = 14
+                Name = product.Name,
+                Colour = product.Colour,
+                Branch = product.Branch,
+                ImageName = product.ImageName,
+
+                Price = 15, //Value to update
+                StockCount = 14 // Value to update
             });
 
             result.ShouldNotBeNull();
-            result.Name.ShouldBe(nameof(Product.Name));
             result.Price.ShouldBe(15);
             result.StockCount.ShouldBe(14);
         }

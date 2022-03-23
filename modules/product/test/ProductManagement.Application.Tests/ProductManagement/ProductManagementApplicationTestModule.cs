@@ -11,7 +11,7 @@ namespace ProductManagement
     {
         public override void ConfigureServices(ServiceConfigurationContext context)
         {
-            context.Services.AddAlwaysAllowAuthorization();
+            //context.Services.AddAlwaysAllowAuthorization();
         }
     }
 }
