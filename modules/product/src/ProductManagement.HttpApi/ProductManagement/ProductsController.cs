@@ -45,7 +45,7 @@ namespace ProductManagement
             return _productAppService.CreateAsync(input);
         }
 
-        [HttpPost]
+        [HttpPut]
         [Route("{id}")]
         public Task<ProductDto> UpdateAsync(Guid id, UpdateProductDto input)
         {
@@ -53,7 +53,10 @@ namespace ProductManagement
             {
                 return _productAppService.UpdateAsync(id, input);
             }
-            catch (Exception ex) { throw; }
+            catch (Exception ex) 
+            {
+                throw; 
+            }
 
         }
 

@@ -4307,11 +4307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+      "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
       "projectName": "ProductManagement.Domain.Shared",
-      "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+      "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\obj\\",
+      "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

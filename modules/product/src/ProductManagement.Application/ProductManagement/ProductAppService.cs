@@ -10,6 +10,7 @@ using Volo.Abp.Application.Dtos;
 using Volo.Abp.Application.Services;
 using Volo.Abp.Domain.Repositories;
 using Volo.Abp.MultiTenancy;
+using Volo.Abp.Uow;
 
 namespace ProductManagement
 {
@@ -101,12 +102,14 @@ namespace ProductManagement
         //[Authorize(ProductManagementPermissions.Products.Update)]
         public async Task<ProductDto> UpdateAsync(Guid id, UpdateProductDto input)
         {
-            var product = await _productRepository.GetAsync(id);
+            var product = await _productRepository.FindAsync(id);
 
             product.SetName(input.Name);
             product.SetPrice(input.Price);
             product.SetStockCount(input.StockCount);
             product.SetImageName(input.ImageName);
+            product.SetBranch(input.Branch);
+            product.SetColour(input.Colour);
 
             var updateProduct =  await _productRepository.UpdateAsync(product);
 

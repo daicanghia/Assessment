@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj": {}
+    "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\ProductService.Host.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj": {
+    "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\ProductService.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
         "projectName": "ProductService.Host",
-        "projectPath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj"
               },
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj"
               },
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj"
               },
-              "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
+              "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "projectName": "ProductManagement.Application.Contracts",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
         "projectName": "ProductManagement.Application",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -234,11 +234,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               },
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
               }
             }
           }
@@ -285,14 +285,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "projectName": "ProductManagement.Domain.Shared",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -350,14 +350,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "projectName": "ProductManagement.Domain",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -374,8 +374,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain.Shared\\ProductManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -414,14 +414,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
         "projectName": "ProductManagement.EntityFrameworkCore",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\ProductManagement.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -438,8 +438,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
               }
             }
           }
@@ -482,14 +482,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
+    "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj",
         "projectName": "ProductManagement.HttpApi",
-        "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\ProductManagement.HttpApi.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.HttpApi\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.HttpApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -506,8 +506,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
+              "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -546,14 +546,14 @@
         }
       }
     },
-    "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
+    "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+        "projectUniqueName": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
         "projectName": "MsDemo.Shared",
-        "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+        "projectPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\obj\\",
+        "outputPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

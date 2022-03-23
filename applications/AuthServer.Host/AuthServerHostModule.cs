@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.DataProtection;
 using Microsoft.Extensions.DependencyInjection;
 using MsDemo.Shared;
 using StackExchange.Redis;
+using System;
 using Volo.Abp;
 using Volo.Abp.Account;
 using Volo.Abp.Account.Web;
@@ -14,7 +15,7 @@ using Volo.Abp.Autofac;
 using Volo.Abp.Data;
 using Volo.Abp.EntityFrameworkCore;
 using Volo.Abp.EntityFrameworkCore.SqlServer;
-using Volo.Abp.EventBus.RabbitMq;
+//using Volo.Abp.EventBus.RabbitMq;
 using Volo.Abp.Identity;
 using Volo.Abp.Identity.EntityFrameworkCore;
 using Volo.Abp.IdentityServer.EntityFrameworkCore;
@@ -31,7 +32,7 @@ namespace AuthServer.Host
 {
     [DependsOn(
         typeof(AbpAutofacModule),
-        typeof(AbpEventBusRabbitMqModule),
+        //typeof(AbpEventBusRabbitMqModule),
         typeof(AbpPermissionManagementEntityFrameworkCoreModule),
         typeof(AbpAuditLoggingEntityFrameworkCoreModule),
         typeof(AbpSettingManagementEntityFrameworkCoreModule),
@@ -109,15 +110,22 @@ namespace AuthServer.Host
             app.UseConfiguredEndpoints();
 
             //TODO: Problem on a clustered environment
-            AsyncHelper.RunSync(async () =>
+            try
             {
-                using (var scope = context.ServiceProvider.CreateScope())
+                AsyncHelper.RunSync(async () =>
                 {
-                    await scope.ServiceProvider
-                        .GetRequiredService<IDataSeeder>()
-                        .SeedAsync();
-                }
-            });
+                    using (var scope = context.ServiceProvider.CreateScope())
+                    {
+                        await scope.ServiceProvider
+                            .GetRequiredService<IDataSeeder>()
+                            .SeedAsync();
+                    }
+                });
+            }catch(Exception ex)
+            {
+
+            }
+            
         }
     }
 }

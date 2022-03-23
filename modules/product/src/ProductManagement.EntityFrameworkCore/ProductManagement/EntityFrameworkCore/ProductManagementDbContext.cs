@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Diagnostics;
 using Volo.Abp.Data;
 using Volo.Abp.EntityFrameworkCore;
 
@@ -14,7 +16,7 @@ namespace ProductManagement.EntityFrameworkCore
         public DbSet<Product> Products { get; set; }
         public DbSet<HistoryAction> HistoryActions { get; set; }
 
-        public ProductManagementDbContext(DbContextOptions<ProductManagementDbContext> options) 
+        public ProductManagementDbContext(DbContextOptions<ProductManagementDbContext> options)
             : base(options)
         {
 
@@ -30,5 +32,10 @@ namespace ProductManagement.EntityFrameworkCore
                 options.Schema = Schema;
             });
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    => optionsBuilder.LogTo(item =>
+    {
+        Debug.WriteLine(item);
+    });
     }
 }

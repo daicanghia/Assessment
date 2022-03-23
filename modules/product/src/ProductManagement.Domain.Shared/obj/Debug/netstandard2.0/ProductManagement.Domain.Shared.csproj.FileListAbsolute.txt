@@ -28,3 +28,13 @@ D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Domain.Shared\obj
 D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.csproj.CoreCompileInputs.cache
 D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.dll
 D:\Data\Simson_Assesment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.pdb
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\bin\Debug\netstandard2.0\ProductManagement.Domain.Shared.deps.json
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\bin\Debug\netstandard2.0\ProductManagement.Domain.Shared.dll
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\bin\Debug\netstandard2.0\ProductManagement.Domain.Shared.pdb
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.csproj.AssemblyReference.cache
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.AssemblyInfoInputs.cache
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.AssemblyInfo.cs
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.dll
+D:\Data\Simpson_Assessment\modules\product\src\ProductManagement.Domain.Shared\obj\Debug\netstandard2.0\ProductManagement.Domain.Shared.pdb

@@ -13344,11 +13344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Simson_Assesment\\applications\\AuthServer.Host\\AuthServer.Host.csproj",
+      "projectUniqueName": "D:\\Data\\Simpson_Assessment\\applications\\AuthServer.Host\\AuthServer.Host.csproj",
       "projectName": "AuthServer.Host",
-      "projectPath": "D:\\Data\\Simson_Assesment\\applications\\AuthServer.Host\\AuthServer.Host.csproj",
+      "projectPath": "D:\\Data\\Simpson_Assessment\\applications\\AuthServer.Host\\AuthServer.Host.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Simson_Assesment\\applications\\AuthServer.Host\\obj\\",
+      "outputPath": "D:\\Data\\Simpson_Assessment\\applications\\AuthServer.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13365,8 +13365,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
-              "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
+            "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj": {
+              "projectPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj"
             }
           }
         }

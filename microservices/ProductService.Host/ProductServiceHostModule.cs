@@ -20,7 +20,7 @@ using Volo.Abp.Autofac;
 using Volo.Abp.Data;
 using Volo.Abp.EntityFrameworkCore;
 using Volo.Abp.EntityFrameworkCore.SqlServer;
-using Volo.Abp.EventBus.RabbitMq;
+//using Volo.Abp.EventBus.RabbitMq;
 using Volo.Abp.Localization;
 using Volo.Abp.Modularity;
 using Volo.Abp.MultiTenancy;
@@ -36,7 +36,7 @@ namespace ProductService.Host
     [DependsOn(
         typeof(AbpAutofacModule),
         typeof(AbpAspNetCoreMvcModule),
-        typeof(AbpEventBusRabbitMqModule),
+        //typeof(AbpEventBusRabbitMqModule),
         typeof(AbpEntityFrameworkCoreSqlServerModule),
         typeof(AbpAuditLoggingEntityFrameworkCoreModule),
         typeof(AbpPermissionManagementEntityFrameworkCoreModule),
@@ -105,6 +105,7 @@ namespace ProductService.Host
 
             context.Services.Configure<AbpAspNetCoreMultiTenancyOptions>(options =>
             {
+                //Temporary tenant
                 options.TenantKey = "f1c453d2-0727-33a9-1e72-3a01b12bbd29";
             });
 

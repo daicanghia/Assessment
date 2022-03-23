@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7dxofVdnyU5nyW6BbJCDXhvOnzqu93xolBNEpVQBLmcVPIQ01YVDHV4d/RkBANtwNn/30qJ54rUbGwz8HiV8g==",
+  "dgSpecHash": "x+AV1mSo5G49+0DeCuHrV7emB4oP6IgWpJv9E28G1yI2zjGKsKoc8YGSpUIrHChGEuih1O/JaF359P5V5l6fuA==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Simson_Assesment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
+  "projectFilePath": "D:\\Data\\Simpson_Assessment\\microservices\\ProductService.Host\\ProductService.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

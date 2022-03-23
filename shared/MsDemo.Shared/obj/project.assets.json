@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+      "projectUniqueName": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
       "projectName": "MsDemo.Shared",
-      "projectPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
+      "projectPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\MsDemo.Shared.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Simson_Assesment\\shared\\MsDemo.Shared\\obj\\",
+      "outputPath": "D:\\Data\\Simpson_Assessment\\shared\\MsDemo.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

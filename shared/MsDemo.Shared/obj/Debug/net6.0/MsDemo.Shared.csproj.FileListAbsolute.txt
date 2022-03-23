@@ -34,3 +34,15 @@ D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.dll
 D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\refint\MsDemo.Shared.dll
 D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.pdb
 D:\Data\Simson_Assesment\shared\MsDemo.Shared\obj\Debug\net6.0\ref\MsDemo.Shared.dll
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.deps.json
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.dll
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\bin\Debug\net6.0\MsDemo.Shared.pdb
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.csproj.AssemblyReference.cache
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.AssemblyInfoInputs.cache
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.AssemblyInfo.cs
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.csproj.CoreCompileInputs.cache
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.dll
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\refint\MsDemo.Shared.dll
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\MsDemo.Shared.pdb
+D:\Data\Simpson_Assessment\shared\MsDemo.Shared\obj\Debug\net6.0\ref\MsDemo.Shared.dll

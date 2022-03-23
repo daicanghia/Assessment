@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5G8KQn7+iNHZ6G7Hwt5muHDmY7iAzvaK5DZntFrC6ZPALBzwqw4nV76N+A5UwI5RIjuM22IE8Dm6T9Km8AJ+A==",
+  "dgSpecHash": "Ts2oDx8not+CYja3OC7U04bim3NtmsgTubhiKf0yEpxZvchUGfan+5/VSQh6klHZod+ck08tg5pEO+IAEvdXPA==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Simson_Assesment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
+  "projectFilePath": "D:\\Data\\Simpson_Assessment\\modules\\product\\src\\ProductManagement.Application.Contracts\\ProductManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
